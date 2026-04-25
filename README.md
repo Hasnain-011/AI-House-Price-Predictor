@@ -63,9 +63,7 @@ To build a **real-world regression model** that helps predict house prices accur
 
 ## 📉 Prediction vs Actual
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="400"/>
-</p>
+<img width="822" height="617" alt="image" src="https://github.com/user-attachments/assets/8c7286ae-679e-4879-ae06-7bdcb3dd1892" />
 
 ---
 
@@ -101,6 +99,18 @@ AI/ML Engineering Intern 🚀
 
 ---
 
+## 📸 Output Screenshot
+
+<img width="693" height="411" alt="image" src="https://github.com/user-attachments/assets/8bb510fa-3fe3-42a0-ab3e-ee249a8f683c" />
+
+<img width="1659" height="295" alt="image" src="https://github.com/user-attachments/assets/395e8b56-a767-474c-8058-7e0327127d5c" />
+
+<img width="571" height="553" alt="image" src="https://github.com/user-attachments/assets/480da498-9954-4509-85bd-4875d7b6ad7d" />
+
+<img width="641" height="261" alt="image" src="https://github.com/user-attachments/assets/948c6769-6388-4bae-8ca9-77a13ae52729" />
+
+<img width="1123" height="805" alt="image" src="https://github.com/user-attachments/assets/c817ff26-b972-4f5e-a3ce-2990e464d1bb" />
+
 ## ⭐ Support
 
 If you like this project:
@@ -110,8 +120,4 @@ If you like this project:
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
-</p>
-
-<h3 align="center">🚀 Built with Passion for AI & Machine Learning</h3>
+🚀 Built with Passion for AI & Machine Learning</h3>
